@@ -7,10 +7,11 @@ Components on this board:
 -CP2104N USB Interface  
 -LSM6DS3 Gyroscope  
 -HDC1080DMBT Humidity/Temperature sensor  
--1.54" TFT Lcd
--DW01A LiPo protection
--SL4054ST25P LiPo charger
--Right angle pushbuttons x4
--USB C connector
+-1.54" TFT Lcd  
+-DW01A LiPo protection  
+-SL4054ST25P LiPo charger  
+-Right angle pushbuttons x4  
+-USB C connector  
+
 
 
