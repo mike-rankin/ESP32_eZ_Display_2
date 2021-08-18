@@ -4,6 +4,7 @@
 ![Component](https://user-images.githubusercontent.com/4991664/129900316-d339da0b-5699-47b9-baea-ba24c7e80170.jpg)
 ![LCD](https://user-images.githubusercontent.com/4991664/129900437-d25dc76e-7051-49d8-bf6a-be9964bc3607.jpg)
 ![Bottom](https://user-images.githubusercontent.com/4991664/129900583-ee2bcb7e-24d9-4909-a20a-6e23c25b1769.png)
+[Schematic_Rev1.1.pdf](https://github.com/mike-rankin/ESP32_eZ_Display_2/files/7007269/Schematic_Rev1.1.pdf)
 
 
 Components on this board:  
