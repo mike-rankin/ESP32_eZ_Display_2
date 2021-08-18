@@ -1,6 +1,7 @@
 # ESP32_eZ_Display_2
 
 ![Component](https://user-images.githubusercontent.com/4991664/129900316-d339da0b-5699-47b9-baea-ba24c7e80170.jpg)
+![LCD](https://user-images.githubusercontent.com/4991664/129900437-d25dc76e-7051-49d8-bf6a-be9964bc3607.jpg)
 
 Components on this board:  
 
