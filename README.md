@@ -4,11 +4,9 @@
 
 Components on this board:
 -ESP32 Pico D4 wifi microprocessor  
-
 -CP2104N USB Interface  
-
--LSM6DS3 Gyroscope
--HDC1080DMBT Humidity/Temperature sensor
+-LSM6DS3 Gyroscope  
+-HDC1080DMBT Humidity/Temperature sensor  
 -1.54" TFT Lcd
 -DW01A LiPo protection
 -SL4054ST25P LiPo charger
