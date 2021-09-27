@@ -6,7 +6,7 @@
 #include <SPI.h>
 #include <Wire.h>
 
-#define TFT_CS        4
+#define TFT_CS         4
 #define TFT_RST        22
 #define TFT_DC         21
 #define TFT_BACKLIGHT  26
