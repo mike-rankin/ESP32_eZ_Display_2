@@ -19,6 +19,7 @@ Components on this board:
 -QwiiC i2c connector
 -LiPo battery level monitor and charging state
 
+
 I had one of these 1.54"x1.54" BuyDisplay lcds laying around for a few months and decided to see if it was possible to fit everything on the backside of and lcd. It has two sensors, four buttons and LiPo battery protection in case your battery has none built in.
 
 
