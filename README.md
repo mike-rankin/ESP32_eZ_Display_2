@@ -15,10 +15,8 @@ Components on this board:
 -DW01A LiPo protection  
 -SL4054ST25P LiPo charger  
 -Right angle pushbuttons x4  
--USB C connector
-
--QwiiC i2c connector
-
+-USB C connector  
+-QwiiC i2c connector  
 -LiPo battery level monitor and charging state
 
 
